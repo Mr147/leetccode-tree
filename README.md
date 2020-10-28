@@ -1,2 +1,2 @@
-# leetccode-tree
+# leetcode-tree
 A project to practice binary tree related algorithms
